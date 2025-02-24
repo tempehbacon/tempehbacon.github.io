@@ -55,7 +55,9 @@ As seen in the table and chart using data collected from the [New York City Depa
 
 The dashboard below displays the location of building alterations, demolitions, and new buildings across Brooklyn starting in 2020. You can also visit [this dashboard](https://www.arcgis.com/apps/dashboards/f6c66dce068547a09db612526c3f5940) to view the dashboard. We look forward to your commitment to address this issue in our community.
 
+::: {.column-screen-inset}
 <iframe width=100% height="815" src="https://www.arcgis.com/apps/dashboards/f6c66dce068547a09db612526c3f5940" title="ArcGIS Dashboard" frameborder="1" allowfullscreen></iframe>
+:::
 
 Best,
 \${yourName}
